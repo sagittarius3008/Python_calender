@@ -6,5 +6,4 @@ Pythonで簡単なロジックを勉強するためにカレンダーを作成�
 
 上記の勉強になった。
 
-教材は下記より
-https://axross-recipe.com/recipes/292?tab=content
+教材は[コチラ](https://axross-recipe.com/recipes/292?tab=content)
